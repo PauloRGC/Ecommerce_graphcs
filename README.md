@@ -1,11 +1,12 @@
 ﻿# Ecommerce_graphcs
 
-##Projeto
-Graficos estaticos e interativos com dados pré estabelecidos.
+## Projeto
+p Graficos estaticos e interativos com dados pré estabelecidos.
 
-##Bibliotecas necessárias
--pandas
--seaborn
--matplotlib
--plotly
--dash
+## Bibliotecas necessárias
+- pandas
+- seaborn
+- matplotlib
+- plotly
+- dash
+
